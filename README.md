@@ -1,0 +1,2 @@
+# A collection of Notebooks using IPython
+This is a personal collection of notebooks for testing multiple aspects of python data analysis. You can find here both personal projects and interesting tutorial that I followed.
